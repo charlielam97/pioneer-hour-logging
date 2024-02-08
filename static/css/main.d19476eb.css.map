@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d19476eb.css","mappings":"AAAA,KACE,sBACA,WAGF,KAEE,YADA,gBAEA","sources":["index.scss"],"sourcesContent":["body {\n  background-color: #333;\n  color: #fff;\n}\n\n.app {\n  max-width: 600px;\n  margin: auto;\n  padding: 20px;\n}\n\n// Add more styles as needed\n"],"names":[],"sourceRoot":""}

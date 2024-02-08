@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pioneer-hour-logging/static/css/main.d19476eb.css",
+    "main.js": "/pioneer-hour-logging/static/js/main.c2b114df.js",
+    "static/js/592.c14ad11d.chunk.js": "/pioneer-hour-logging/static/js/592.c14ad11d.chunk.js",
+    "index.html": "/pioneer-hour-logging/index.html",
+    "main.d19476eb.css.map": "/pioneer-hour-logging/static/css/main.d19476eb.css.map",
+    "main.c2b114df.js.map": "/pioneer-hour-logging/static/js/main.c2b114df.js.map",
+    "592.c14ad11d.chunk.js.map": "/pioneer-hour-logging/static/js/592.c14ad11d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d19476eb.css",
+    "static/js/main.c2b114df.js"
+  ]
+}
